@@ -11,5 +11,5 @@ This is searcher for Pokemon heroes
 
 ## Authors
 
-- [@Akbarjon03](https://www.github.com/Akbarjon03)
+- [@proAmindev](https://www.github.com/poramindev)
 
